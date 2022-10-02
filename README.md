@@ -1,7 +1,7 @@
 # CPSC-42_JankInvaders
 This is a recreation of space invaders I made in CPSC-42 at Merced College that can run on most Arduino boards that can output to a NeoPixel strip with n^2 diodes arranged in an n by n array where n is greater than 4.
 
-![JankInvaders](JankInvaders.png)
+![JankInvaders](images/JankInvaders.png)
 
 ## Original Project Report:
 &bspc;&bspc;&bspc;&bspc;Jank Invaders is a game I’ve created using a simulated Arduino controller on Tinkercad. It is meant to somewhat resemble Space Invaders on the Atari with a few elements born out of necessity that make it different. To play Jank Invaders, the player must fire beam lasers at the quickly spawning aliens to keep them at bay for as long as possible. There is a short cooldown after firing, but instead of shooting bullets, the beam will destroy any alien ship directly that is either in front of the player, or is about to pass in front of the player. Once the aliens have reached the bottom row, the screen will begin flashing in a beautiful, hopefully Hotline Miami-esque, collage of colors.
