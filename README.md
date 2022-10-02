@@ -10,12 +10,19 @@ This is a recreation of space invaders I made in CPSC-42 at Merced College that 
 ## Parts and Materials
     
 (All parts are digital, from Tinkercad)
-Arduino Uno
-3 10 KΩ Resistors
-3 Push Buttons
-Breadboard
-Wires
-An {X by X} NeoPixel Matrix where X is an even number
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arduino Uno
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 10 KΩ Resistors
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 Push Buttons
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breadboard
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wires
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An {X by X} NeoPixel Matrix where X is an even number
+
 
 
 ## Construction
