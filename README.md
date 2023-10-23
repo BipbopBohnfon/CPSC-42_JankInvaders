@@ -27,7 +27,7 @@ This is a recreation of space invaders I made in CPSC-42 at Merced College that 
 
 ## Construction
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The physical build for this project is very simple. It may even be too simple, and I’m starting to get worried it won’t be enough for me to get a good grade. The protoboarding portion of this project simply includes three push buttons with pulldown resistors going into the digital input pins of the Arduino controller. The other physical component of this project was the NeoPixel matrix. They are individual RGB LED components that can be placed in any configuration. Each line in the LED matrix isn’t laid upon another in the same orientation. To make programming the alien movement easier, I flipped each line of LEDs so that the end of one line doesn’t have to be wired to the opposite end of the matrix, it can just be wired to an adjacent NeoPixel component. This ended up causing issues that will be mentioned later.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The physical build for this project is simple. The protoboarding portion of this project simply includes three push buttons with pulldown resistors going into the digital input pins of the Arduino controller. The other physical component of this project was the NeoPixel matrix. They are individual RGB LED components that can be placed in any configuration. Each line in the LED matrix isn’t laid upon another in the same orientation. To make programming the alien movement easier, I flipped each line of LEDs so that the end of one line doesn’t have to be wired to the opposite end of the matrix, it can just be wired to an adjacent NeoPixel component. This ended up causing issues that will be mentioned later.
 
 
 ## Circuit Diagrams
